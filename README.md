@@ -1,2 +1,2 @@
-# landing-Page
+# landing-page
 First Official Project
