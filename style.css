@@ -12,3 +12,23 @@ body {
     font-size: 18px; 
     color: #E5E7EB;
 }
+.tip {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 100px;
+}
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+}
+.links {
+   display: flex;
+   gap: 20px;
+}
+ul {
+    list-style-type: none;
+}
+a {
+     text-decoration: none;
+ }
