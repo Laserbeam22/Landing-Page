@@ -36,3 +36,20 @@ img {
     height: auto;
     max-width: 25%;
 }
+.all {
+    display: flex;
+    padding: 100px;
+}
+.left{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    max-width: 470px;
+}
+.right {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: center;
+    margin-left: -2111px;
+}
