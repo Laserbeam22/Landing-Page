@@ -64,3 +64,14 @@ h1 {
     color: #F9FAF8;
     margin: 0;
 }
+button {
+    background-color: #3882f6;
+    border-radius: 5px;
+    color: #E5E7EB;
+    padding: 7px 25px;
+    font-weight: bold;
+    border-style: solid;
+}
+.kind button{
+    border-color: #3882f6;
+}
