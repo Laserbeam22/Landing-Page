@@ -75,3 +75,9 @@ button {
 .kind button{
     border-color: #3882f6;
 }
+.end {
+    background-color: #3882f6;
+}
+.happy button {
+    border-color: #F9FAF8;
+}
