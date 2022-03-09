@@ -39,6 +39,7 @@ img {
 .all {
     display: flex;
     padding: 100px;
+    justify-content: center;
 }
 .left{
     display: flex;
@@ -46,12 +47,9 @@ img {
     align-items: flex-start;
     max-width: 470px;
 }
-.right {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-end;
-    align-items: center;
-    margin-left: -2111px;
+.right img {
+   height: 300px;
+   max-width: 500px;
 }
 p {
     display: flex;
