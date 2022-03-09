@@ -53,3 +53,14 @@ img {
     align-items: center;
     margin-left: -2111px;
 }
+p {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 0;
+}
+h1 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+    margin: 0;
+}
