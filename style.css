@@ -74,6 +74,9 @@ img {
     height: auto;
     max-width: 100px;
 }
+.text {
+    max-width: 100px;
+}
 
 
 
