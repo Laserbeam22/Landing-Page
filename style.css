@@ -84,8 +84,12 @@ img {
     text-align: center;
     justify-content: center;
 }
-
-
+h2 {
+    font-size: 36px;
+    font-weight:bolder;
+    color: #1F2937;
+    text-align: center;
+}
 
 .end {
     background-color: #3882f6;
