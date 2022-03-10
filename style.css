@@ -32,10 +32,6 @@ ul {
 a {
      text-decoration: none;
 }
-img {
-    height: auto;
-    max-width: 25%;
-}
 .all {
     display: flex;
     padding: 100px;
@@ -73,9 +69,18 @@ button {
 .kind button{
     border-color: #3882f6;
 }
+
+img {
+    height: auto;
+    max-width: 100px;
+}
+
+
+
 .end {
     background-color: #3882f6;
 }
 .happy button {
     border-color: #F9FAF8;
 }
+
