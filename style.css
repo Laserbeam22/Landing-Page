@@ -70,12 +70,19 @@ button {
     border-color: #3882f6;
 }
 
+
+
 img {
     height: auto;
     max-width: 100px;
 }
 .text {
     max-width: 100px;
+}
+.middle {
+    display: flex;
+    text-align: center;
+    justify-content: center;
 }
 
 
