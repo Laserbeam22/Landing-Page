@@ -97,6 +97,14 @@ h2 {
 }
 
 
+.quote {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
 
 .end {
     background-color: #3882f6;
