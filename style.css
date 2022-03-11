@@ -111,7 +111,11 @@ h2 {
 .two {
     font-weight: bold;
     margin-top: -30px;
- }
+}
+.one{
+    font-weight: lighter;
+    font-style: italic;
+}
  
 
 
