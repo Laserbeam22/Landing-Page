@@ -164,4 +164,7 @@ h3 {
     background-color: #1F2937;
     color: #E5E7EB;
     padding: 33px;
+    display: flex;
+    justify-content: center;
+
 }
