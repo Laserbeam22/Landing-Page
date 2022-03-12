@@ -141,7 +141,7 @@ h2 {
     background-color: #3882f6;
     display: flex;
     max-width: fit-content;
-    padding: 15px 84px;
+    padding: 22px 99px;
     border-radius: 5px;
 }
 .happy button {
@@ -149,7 +149,7 @@ h2 {
 }
 .happy {
     align-self: center;
-    padding-left: inherit;
+    padding-left: 115px;
 }
 .end p {
     color: #E5E7EB;
