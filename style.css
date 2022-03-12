@@ -119,15 +119,16 @@ h2 {
     color: #1F2937;
     max-width: 750px;
 }
-.two {
+.quote .two {
     font-weight: bold;
     margin-top: -30px;
+    font-size: 24px;
 }
 .one{
     font-weight: lighter;
     font-style: italic;
 }
- 
+
 /* Section 4*/
 
 .end {
