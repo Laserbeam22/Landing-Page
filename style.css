@@ -144,6 +144,9 @@ h2 {
 .happy button {
     border-color: #F9FAF8;
 }
+.happy {
+    align-self: center;
+}
 .end p {
     color: #E5E7EB;
 }
