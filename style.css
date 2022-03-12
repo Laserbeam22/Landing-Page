@@ -111,6 +111,8 @@ h2 {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 100px;
+    padding-bottom: 50px;
 }
 .quote p {
     font-size: 36px;
