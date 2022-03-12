@@ -134,6 +134,8 @@ h2 {
 
 .end {
     background-color: #3882f6;
+    display: flex;
+    max-width: fit-content;
 }
 .happy button {
     border-color: #F9FAF8;
