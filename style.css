@@ -147,6 +147,7 @@ h2 {
 }
 .happy {
     align-self: center;
+    padding-left: inherit;
 }
 .end p {
     color: #E5E7EB;
