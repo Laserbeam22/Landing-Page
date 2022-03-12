@@ -132,6 +132,10 @@ h2 {
 
 /* Section 4*/
 
+.container {
+    display: flex;
+    justify-content: center;
+}
 .end {
     background-color: #3882f6;
     display: flex;
