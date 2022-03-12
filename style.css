@@ -140,6 +140,7 @@ h2 {
     background-color: #3882f6;
     display: flex;
     max-width: fit-content;
+    padding: 15px 84px;
 }
 .happy button {
     border-color: #F9FAF8;
