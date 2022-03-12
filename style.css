@@ -17,7 +17,7 @@ body {
 }
 .tip {
     display: flex;
-    justify-content: space-between;
+    gap: 358px;
     padding: 20px 100px;
 }
 .logo {
@@ -38,7 +38,6 @@ a {
 .all {
     display: flex;
     padding: 100px;
-    justify-content: center;
     gap: 40px;
 }
 .left{
